@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-19T00:58:09 EDT" name="Default suite" finished-at="2023-09-19T00:58:11 EDT" duration-ms="1899">
+    <groups>
+    </groups>
+    <test started-at="2023-09-19T00:58:09 EDT" name="Default test" finished-at="2023-09-19T00:58:11 EDT" duration-ms="1899">
+      <class name="loginTest.Assertion">
+        <test-method is-config="true" signature="openApp()[pri:0, instance:loginTest.Assertion@443118b0]" started-at="2023-09-19T00:58:09 EDT" name="openApp" finished-at="2023-09-19T00:58:11 EDT" duration-ms="1759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method signature="assertion()[pri:0, instance:loginTest.Assertion@443118b0]" started-at="2023-09-19T00:58:11 EDT" name="assertion" finished-at="2023-09-19T00:58:11 EDT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertion -->
+        <test-method signature="facebookLoginTest()[pri:0, instance:loginTest.Assertion@443118b0]" started-at="2023-09-19T00:58:11 EDT" name="facebookLoginTest" finished-at="2023-09-19T00:58:11 EDT" duration-ms="113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookLoginTest -->
+      </class> <!-- loginTest.Assertion -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
